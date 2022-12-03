@@ -2,7 +2,7 @@
 
 # Introduction
 
-Everything you need to know about this project is listed in this [article](https://bigzee550.medium.com/the-maze-project-3e2524d78081).
+Everything you need to know about this project is listed in this [video]().
 
 # Installation
 
@@ -10,7 +10,6 @@ Everything you need to know about this project is listed in this [article](https
 
 # Usage
 
-* Execute ```./maze``` or type ```make run``` to open the game
 * Use up and down arrow keys to move farward and back
 * Use right and left arrow keys to turn the camera around
 
