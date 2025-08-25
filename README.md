@@ -7,9 +7,11 @@ This project challenges you to step into the world of classic rendering techniqu
 
 You'll learn how to implement a simple yet powerful graphics engine using raycasting principles, creating immersive gameplay inside a maze environment.
 
+![maze](https://github.com/user-attachments/assets/ec68ab33-dde6-448e-891a-2429fe6f9372)
 ---
 
 ## 🎯 Goal
+
 
 The main objective of this project is to:
 - Understand and apply **raycasting techniques** to simulate 3D perspective
