@@ -1,22 +1,58 @@
-# Maze
+# 🌀 Maze 3D Game using Raycasting
 
-# Introduction
+## 🧩 Project Overview
 
-Everything you need to know about this project is listed in this [video]().
+Welcome to the **Maze Project** — a 3D game built using **raycasting**!  
+This project challenges you to step into the world of classic rendering techniques to simulate a 3D environment from a 2D map, much like the early days of *Doom* or *Wolfenstein 3D*.
 
-# Installation
+You'll learn how to implement a simple yet powerful graphics engine using raycasting principles, creating immersive gameplay inside a maze environment.
 
-* ```git clone https://github.com/Mozzie455/MazeGame.git```
+---
 
-# Usage
+## 🎯 Goal
 
-* Use up and down arrow keys to move farward and back
-* Use right and left arrow keys to turn the camera around
+The main objective of this project is to:
+- Understand and apply **raycasting techniques** to simulate 3D perspective
+- Develop a playable **3D maze game**
+- Gain hands-on experience with low-level rendering logic
+- Have **fun** while learning graphics programming!
 
-# Compilation
+---
 
-* From the menu bar, select Build > Build Solution.
+## 📚 Background & Instructions
 
-# Authors
+- You **must** begin with the first task, as it sets up the foundation for the rest of the project.
+- Other tasks can be done in any order **unless explicitly dependent** on previous ones.
+- A detailed raycasting tutorial is provided in the **Tips and Links** section (check your resources).  
+  **Take your time to go through it thoroughly** — it’s long but incredibly helpful.
+- This project emphasizes **learning through practice**. Tinker, test, break things, and learn!
 
-Joshua Mutiso - [Linkedin](www.linkedin.com/in/joshua-mutiso-89125b134)
+---
+
+## 🛠️ Features (Planned/Implemented)
+
+- [x] Basic 2D map parsing and display
+- [x] Raycasting engine for 3D rendering
+- [x] Player movement and rotation
+- [ ] Collision detection
+- [ ] Maze generation
+- [ ] Textured walls and environment details
+- [ ] HUD and mini-map display
+- [ ] Sound effects (optional)
+
+---
+
+## 🔧 Technologies Used
+
+- C / C++ 
+- SDL 
+- Basic math (trigonometry, geometry)
+
+---
+
+## 📎 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mozzie455/maze-raycasting-project.git
+
